@@ -11,7 +11,7 @@
   "peerDependencies": {
     "@tiptap/core": "^2.0.0-beta.1",
     "@tiptap/react": "^2.0.0-beta.109",
-    "@tiptap/extension-image": "^2.0.0-beta.109",
+    "@tiptap/extension-image": "^2.0.0-beta.27",
     "react": "^17.0.2 || ^18"
   },
   "main": "src/index.ts",
